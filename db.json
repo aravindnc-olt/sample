@@ -1,5 +1,11 @@
 {
-      "title": "Sample Event",
-      "description": "This is a sample event",
-      "recipients": "aravind.nc@optiologic.com"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
